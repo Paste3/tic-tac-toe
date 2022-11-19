@@ -69,7 +69,7 @@ function Tateti() {
     }
 
     return (
-        <div className="body">
+        <div className="bodyTateti">
             <h2 style={{ color: "white" }}>TURNO : {turn}</h2>
             <Board winningSquares={winningSquares} squares={squares} onClick={handleClick} turn={turn} />
             <ScoreBoard scoreO={score.O} scoreX={score.X} ></ScoreBoard>

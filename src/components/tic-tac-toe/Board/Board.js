@@ -18,7 +18,7 @@ export default function Board({ squares, onClick, turn, winningSquares }) {
     );
 
     return (
-        <div className="board">
+        <div className="board1">
             <div className="row">
                 {createSquares([0, 1, 2])}
             </div>
