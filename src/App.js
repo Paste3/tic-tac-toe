@@ -70,7 +70,7 @@ function App() {
 
   return (
     <div className="container">
-      <h2 style={{color: "white"}}>TURNO : {turn}</h2>
+      <h2 style={{ color: "white" }}>TURNO : {turn}</h2>
       <Board winningSquares={winningSquares} squares={squares} onClick={handleClick} turn={turn} />
       <ScoreBoard scoreO={score.O} scoreX={score.X} ></ScoreBoard>
     </div>
