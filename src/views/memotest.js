@@ -53,7 +53,7 @@ const Memotest = () => {
         setTimeout(() => {
             setPares(0);
             window.location.reload()
-        },50000)
+        },5000)
     }
 
     return (

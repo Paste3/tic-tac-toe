@@ -5,7 +5,7 @@ export default function Card() {
         <>
         <div className="col-md-6">
             <div class="card">
-                <img src="http://dlprivateserver.com/wp-content/uploads/2022/08/Como-ganar-siempre-en-Tic-Tac-Toe-La-mejor.jpg" />
+                <img src="https://tse1.mm.bing.net/th/id/OIP.wS5uDdEDnQJSkWZSLgVq1QHaFo?w=282&h=214&c=7&r=0&o=5&pid=1.7" />
                 <div class="card__content">
                     <h2>Tic Tac Toe</h2>
                     <p>
